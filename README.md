@@ -42,7 +42,6 @@
 * [React Reflux](https://segmentfault.com/a/1190000002793786)
 * [React+reflux应用 IE8/9/10/11兼容实践](https://segmentfault.com/a/1190000005794242#articleHeader9)
 * [Reflux系列01：异步操作经验小结](https://segmentfault.com/a/1190000004250062)
-* [传统 Ajax 已死，Fetch 永生](http://www.jianshu.com/p/THLARe#)
 * [Fetch API](https://github.github.io/fetch/)
 * [使用Mock.js进行独立于后端的前端开发](https://segmentfault.com/a/1190000003087224)
 
