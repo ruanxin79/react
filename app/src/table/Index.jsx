@@ -2,7 +2,7 @@ import React from 'react';
 import Mock from 'mockjs';
 import { Table } from 'antd';
 const dataSource = [];
-for (let i = 0; i < 30; i++) {
+for (let i = 0; i < 50; i++) {
     dataSource.push(Mock.mock({
         key:i,
         code: Mock.mock('@increment'),
